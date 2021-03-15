@@ -1,1 +1,1 @@
-# dice-game-js-fun
+# dicegame_js_fun
